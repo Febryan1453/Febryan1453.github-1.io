@@ -59,7 +59,7 @@ body {
   font-size: 26px;
   transition: transform 0.5s;
   text-transform: uppercase;
-  color: #ff5252;
+  color: #ff5252 !important;
 }
 
 .navbar h1:hover {
